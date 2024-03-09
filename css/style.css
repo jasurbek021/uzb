@@ -1,0 +1,30 @@
+* {
+   margin: auto;
+}
+
+
+.top {
+   color: blue;
+}
+.top-p {
+    color: blue;
+ }
+ .top-h {
+ font-size: 30px;
+ color: rgb(190, 95, 18);
+ }
+ .top-b{
+    color: rgb(0, 0, 0);
+ }
+.top-div {
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 5px solid blue;
+    padding-right: 250px;
+    padding-left: 30px;
+    background-color: rgb(234, 229, 241);
+}
+#top-aa {
+   font-size: 23px;
+}
